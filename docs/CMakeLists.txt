@@ -21,4 +21,4 @@ if(ENABLE_DOXYGEN)
 ########################################################################
 add_subdirectory(doxygen)
 
-endif(ENABLE_DOXYGEN)
+e ndif(ENABLE_DOXYGEN)
